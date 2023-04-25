@@ -1,0 +1,20 @@
+/Users/parkercollins/Library/CloudStorage/OneDrive-TheUniversityofAlabama/MIS 321/PAs/PA4/obj/Debug/net6.0/PA4.csproj.AssemblyReference.cache
+/Users/parkercollins/Library/CloudStorage/OneDrive-TheUniversityofAlabama/MIS 321/PAs/PA4/obj/Debug/net6.0/PA4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parkercollins/Library/CloudStorage/OneDrive-TheUniversityofAlabama/MIS 321/PAs/PA4/obj/Debug/net6.0/PA4.AssemblyInfoInputs.cache
+/Users/parkercollins/Library/CloudStorage/OneDrive-TheUniversityofAlabama/MIS 321/PAs/PA4/obj/Debug/net6.0/PA4.AssemblyInfo.cs
+/Users/parkercollins/Library/CloudStorage/OneDrive-TheUniversityofAlabama/MIS 321/PAs/PA4/obj/Debug/net6.0/PA4.csproj.CoreCompileInputs.cache
+/Users/parkercollins/Desktop/PA4/obj/Debug/net6.0/PA4.csproj.AssemblyReference.cache
+/Users/parkercollins/Desktop/PA4/obj/Debug/net6.0/PA4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parkercollins/Desktop/PA4/obj/Debug/net6.0/PA4.AssemblyInfoInputs.cache
+/Users/parkercollins/Desktop/PA4/obj/Debug/net6.0/PA4.AssemblyInfo.cs
+/Users/parkercollins/Desktop/PA4/obj/Debug/net6.0/PA4.csproj.CoreCompileInputs.cache
+/Users/parkercollins/Library/CloudStorage/OneDrive-TheUniversityofAlabama/MIS 321/PAs/PA4/bin/Debug/net6.0/PA4
+/Users/parkercollins/Library/CloudStorage/OneDrive-TheUniversityofAlabama/MIS 321/PAs/PA4/bin/Debug/net6.0/PA4.deps.json
+/Users/parkercollins/Library/CloudStorage/OneDrive-TheUniversityofAlabama/MIS 321/PAs/PA4/bin/Debug/net6.0/PA4.runtimeconfig.json
+/Users/parkercollins/Library/CloudStorage/OneDrive-TheUniversityofAlabama/MIS 321/PAs/PA4/bin/Debug/net6.0/PA4.dll
+/Users/parkercollins/Library/CloudStorage/OneDrive-TheUniversityofAlabama/MIS 321/PAs/PA4/bin/Debug/net6.0/PA4.pdb
+/Users/parkercollins/Library/CloudStorage/OneDrive-TheUniversityofAlabama/MIS 321/PAs/PA4/obj/Debug/net6.0/PA4.dll
+/Users/parkercollins/Library/CloudStorage/OneDrive-TheUniversityofAlabama/MIS 321/PAs/PA4/obj/Debug/net6.0/refint/PA4.dll
+/Users/parkercollins/Library/CloudStorage/OneDrive-TheUniversityofAlabama/MIS 321/PAs/PA4/obj/Debug/net6.0/PA4.pdb
+/Users/parkercollins/Library/CloudStorage/OneDrive-TheUniversityofAlabama/MIS 321/PAs/PA4/obj/Debug/net6.0/PA4.genruntimeconfig.cache
+/Users/parkercollins/Library/CloudStorage/OneDrive-TheUniversityofAlabama/MIS 321/PAs/PA4/obj/Debug/net6.0/ref/PA4.dll
